@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I want to empower practitioners in the field to redirect the energy they spend on manual data entry and routine tasks toward more creative problem-solving. My goal is for my technical contributions to serve as a catalyst that fundamentally transforms a developer’s operational efficiency.
+I want to empower developers in the field to redirect the energy they spend on manual data entry and routine tasks toward more creative problem-solving. My goal is for my technical contributions to serve as a catalyst that fundamentally transforms a developer’s operational efficiency.
 
 <p align="left">
   <a href="https://github.com/sponsors/TomLeeLive">
