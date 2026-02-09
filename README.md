@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://buymeacoffee.com/tomleelive" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TomLeeLive&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 -->
