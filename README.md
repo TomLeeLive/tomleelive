@@ -34,10 +34,6 @@ Next.js · Jetpack Compose · SwiftUI · Postgres · Vercel · Cloudflare
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomLeeLive&show_icons=true&theme=default&hide_border=true&count_private=true" height="150">
-</p>
-
 ### 💖 Support My Work
 
 <p align="left">
