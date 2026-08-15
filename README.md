@@ -1,4 +1,4 @@
-### Tom Jaejoon Lee
+### Tom J. Lee
 
 **Creator of [ClawSouls](https://clawsouls.ai)** — an open-spec platform for portable AI agent personas.
 
